@@ -1,0 +1,84 @@
+<!DOCTYPE> 
+<html> 
+	<head> 
+		<meta charset="utf-8"> 
+		<title>Название страницы</title> 
+		<link rel="stylesheet" href="style.css"> 
+		<meta name="keywords" content="моя, первая, веб-страница"> 
+		<meta name="description" content="Продажа собак Харьков. На доске объявлений OLX.ua Харьков можно быстро и недорого купить щенка">
+		<meta name="author" lang="ru" content="Яна Будниченко">
+ <script type="text/javascript">
+     var appInsights=window.appInsights||function(a){
+         function b(a){c[a]=function(){var b=arguments;c.queue.push(function(){c[a].apply(c,b)})}}var c={config:a},d=document,e=window;setTimeout(function(){var b=d.createElement("script");b.src=a.url||"https://az416426.vo.msecnd.net/scripts/a/ai.0.js",d.getElementsByTagName("script")[0].parentNode.appendChild(b)});try{c.cookie=d.cookie}catch(a){}c.queue=[];for(var f=["Event","Exception","Metric","PageView","Trace","Dependency"];f.length;)b("track"+f.pop());if(b("setAuthenticatedUserContext"),b("clearAuthenticatedUserContext"),b("startTrackEvent"),b("stopTrackEvent"),b("startTrackPage"),b("stopTrackPage"),b("flush"),!a.disableExceptionTracking){f="onerror",b("_"+f);var g=e[f];e[f]=function(a,b,d,e,h){var i=g&&g(a,b,d,e,h);return!0!==i&&c["_"+f](a,b,d,e,h),i}}return c
+     }({
+         instrumentationKey: "822ec5ec-4b25-4591-8beb-8a25e8069ec4"
+     });
+
+     window.appInsights=appInsights,appInsights.queue&&0===appInsights.queue.length&&appInsights.trackPageView();
+</script>
+	</head> 
+	<body> 	
+	<table border="1" width="100%">
+		<tbody>
+		<tr>
+			<th colspan="3">
+				<h1>Eugene Mamut</h1> 
+			</th>
+		</tr>
+		<tr>
+			<td colspan="2">	
+                <div><b>Eugene Mamut</b> — Soviet, Ukrainian and American visual effects creator.</div>  	
+                <img src="images/mamut.jpg" alt="Картинка" height="400">				
+				<h2>Biography</h2> 
+				<div><em>Eugene Mamut</em> was born on July 9, 1942 in Tashkent.</div>
+				<div>In 1959 he graduated from school.</div>
+				<div>In 1959-1961, he was a turner at the experimental plant KhPI.</div>
+				<div>In 1961—1963 he graduated from the Kharkov construction technical school, electrical technician.</div>
+				<div>In 1963-1967 he served in the Pacific Fleet.</div>
+				<div>In 1967-1970 at the Department of PDM (Dynamics and Strength of Machines KhPI) received 2 copyright certificates for a new way to measure non-electrical quantities.</div>
+				<p> 
+				<blockquote>
+					<div>Graduates of the Kharkov Polytechnic of the 1970s recall that there was an institute amateur film studio at the Students' Palace, where Mamut was a frequent guest.</div>
+                   <hr>
+				   <div><em>“When Yevgeny Mamut was a student, he and his friends came up with an ingenious method of creating chronicles when they were at the KhPI-film,”</em> the film expert and author of the book “Kharkiv Cinema” Vladimir Mislavsky says. <em>”They made a film for the KhPI anniversary then, and they needed old newsreel so guys solved the problem very quickly. They decided to wear students suits of those years and shoot a black and white film, trampled on the film, glued the film and a thousand times drove through the projector to achieve scratches. It turned out gorgeous! ".</em></div>
+                    <hr>
+					<div> 1971 he obtained a diploma in electrical engineering at KhPI.</div>
+                    <div>In 1970-1978 he worked as an engineer at the KhPI film studio. He also designed a machine that performs many functions and developed technology for shooting under a microscope.</div>
+                    <div>Around 1972 he created the first computer plot cartoon in the USSR.</div>
+                    <div>In 1973, with his colleagues, he produced stereographic puppet animation with the play of a live actor "Vanka Vstanka" on a color film - the first artistic stereo animation in the USSR.</div>
+                    <div>In 1975, he decided to create art animation with computer graphics using a computer.</div>
+                    <div>In 1978 he emigrated to the United States.</div>
+                    <div>Invented the so-called "elastic effect", first used in advertising "Renault " - the car stretched turning  around the corner. This effect, undoubtedly supernatural in those times, was achieved with the help of special 1200 strips- “masks” - at the right time they overlapped the shot, it turned out that the general plan remains unchanged, but the object on the front stretches.</div>
+                    <div>“The 20th Century Fox Film Company asked the studio where I worked:“ We want something, but we don’t know what, ”recalls Yevgeny Mamut. - They decided to make "Predator", Schwarzenegger was already approved for the role and everything was ready, but it was necessary to make a hero who, "when he moves, he is visible, and when he does not move, he doesn’t." Our companydecided to make it. ”“ For the Predator, we improved the system itself: here the monster goes into the shot and immediately begins to stretch and disappear. </div>
+                    <div>A special stunt machine that was used for this special effect in 1987, today, when everything is done on the computer, seems funny. But then on this machine you could simultaneously scroll eight films. ”</div>
+
+                    <div>He participated in the creation of special effects in many Oscar-winning films</div>
+					<h4>"Lady-Hawk"</h4>
+					<h4>"Dirty Dancing"</h4>
+					<h4>"The Matrix"</h4>
+					<h4>"Judge Dredd"</h4>
+					<h4>"Star Trooper"</h4>
+					<h4>"Predator" with Arnold Schwarzenegger</h4>
+                    <div>In 1987, he was awarded the Oscar for his research and engineering for an optical stunt machine (in particular, the film “Predator” was made).</div>
+Participated in the creation of 700 commercials and 40 films.
+His wife - artist Irina Borisova.
+In 2002, Eugene Mamut, along with his wife, graphic artist Irina Borisova, opened Animagic - Museum of animation, special effects and art. In the county of Berkshire (Massachusetts) teaches students the art of animation and combined shooting, creates new exhibits for the museum.
+                 </blockquote>  
+
+					<hr>
+					<address> 
+					Address: Lee City, Massachusetts<br> 
+					Phone number: 413.841.6679<br> 
+					E-mail: <a href="mailto:mambor54 @ gmail.com">mambor54 @ gmail.com</a> 
+					</address> 
+				
+
+				</p> 
+				
+			</td>
+			
+		</tr>
+		</tbody>
+	</table>
+	</body> 
+</html>
